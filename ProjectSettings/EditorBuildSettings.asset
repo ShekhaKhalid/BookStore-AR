@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 28a71c8de7f100241ab053b1efba974d
+  - enabled: 1
+    path: Assets/Scenes/BookRec.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TheMartian.unity
+    guid: 8f1d5f900cbb8884e9757d3f8f456c2d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9c451cd052b260d49a66f77e92d36e3a, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1bee0334d11821f48b8a4eaa275d4e43, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d48bf83cb9f1e0346b96e10a57b4c360, type: 2}
